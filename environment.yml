@@ -4,6 +4,4 @@ channels:
   - defaults
 dependencies:
   - python=3.7
-  - ipykernel
   - kwant=1.4.1
-  - qsymm=1.2.1
